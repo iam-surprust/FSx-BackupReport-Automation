@@ -2,6 +2,7 @@
 
 # 📦 AWS FSx Backup Report Automation – Lambda + S3 + SNS
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9b409f23-5cbf-4263-8ec9-3c3c20e9f709" />
 
 
 ## 📘 Overview
